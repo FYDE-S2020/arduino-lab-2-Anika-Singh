@@ -1,8 +1,8 @@
-Name:
+Name: Anika Singh
 
-EID:
+EID: as93479
 
-Team Number:
+Team Number: 10 
 
 ## Questions
 
